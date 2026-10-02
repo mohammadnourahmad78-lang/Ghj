@@ -1,0 +1,6 @@
+{
+  "name": "حاسبة النتائج",
+  "description": "حاسبة معدل ودرجات شهادة التعليم الأساسي وحساب المجموع التفاضلي بحذف اللغة الأقل وبطاقة النتيجة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
